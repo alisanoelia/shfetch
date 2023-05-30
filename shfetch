@@ -1,6 +1,6 @@
 #!/bin/sh -e
 
-# Información del sistema
+# System Info
 kernel_version=$(uname -r)
 shell=$(basename "$SHELL")
 . /etc/os-release
@@ -10,7 +10,6 @@ while read -r line; do
     [ "${line#exec }" = "$line" ] || wm="${line#exec }"
 done < "$HOME/.xinitrc"
 
-# Colores
 # Colors and palette method stolen from dylanaraps pftech
 # https://github.com/dylanaraps/pfetch
 c0='[0m';
@@ -19,7 +18,6 @@ c3='[33m'; c4='[34m'
 c5='[35m'; c6='[36m'
 c7='[37m'; c8='[38m'
 palette="[7m$c1 $c1 $c2 $c2 $c3 $c3 $c4 $c4 $c1 $c5 $c6 $c6 [m"
-
 
 # Gato simple
 printf '%s\n' "
