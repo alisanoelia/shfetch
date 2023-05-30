@@ -1,2 +1,2 @@
 # shfetch
-Minimal fetch in sh pure
+Minimal fetch in sh
