@@ -3,7 +3,8 @@ Minimal fetch in sh
 
 ## Install
 
-'''bash
+'''sh
 git clone https://github.com/alisanoelia/shfetch
 cd shfetch
 sudo make Install
+'''
