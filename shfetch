@@ -23,7 +23,6 @@ palette="[7m$c1 $c1 $c2 $c2 $c3 $c3 $c4 $c4 $c1 $c5 $c6 $c6 [m"
 
 # Gato simple
 printf '%s\n' "
-
         ${c1}os -> ${PRETTY_NAME}
 ${c0} /\_/\  ${c2}kernel -> $kernel_version
 ${c0}( o.o ) ${c6}shell -> $shell
