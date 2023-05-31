@@ -6,5 +6,5 @@ Minimal fetch in sh
 ```sh
 git clone https://github.com/alisanoelia/shfetch
 cd shfetch
-sudo make Install
+sudo make install
 ```
