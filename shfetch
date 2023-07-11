@@ -28,10 +28,10 @@ palette="[7m$c1 $c1 $c2 $c2 $c3 $c3 $c4 $c4 $c1 $c5 $c6 $c6 [m"
 
 # Gato simple
 printf '%s\n' "
-        ${c1}os ~ ${c0}${PRETTY_NAME}
-${c0}(\ /)   ${c2}kr ~ ${c0}$kernel_version
-${c0}( . .)  ${c6}sh ~ ${c0}$shell
-${c0}c(${c1}\"${c0})(${c1}\"${c0}) ${c3}wm ~ ${c0}$wm
+            ${c1}os ~ ${c0}${PRETTY_NAME}
+  ${c0}(\ /)     ${c2}kr ~ ${c0}$kernel_version
+  ${c0}( . .)    ${c6}sh ~ ${c0}$shell
+  ${c0}c(${c1}\"${c0})(${c1}\"${c0})   ${c3}wm ~ ${c0}$wm
 
-        ${palette}
+            ${palette}
 "
