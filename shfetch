@@ -23,7 +23,7 @@ c1='[1;31m'; c2='[1;32m'
 c3='[1;33m'; c4='[1;34m'
 c5='[1;35m'; c6='[1;36m'
 c7='[1;37m'; c8='[1;38m'
-palette="[7m$c1 $c1 $c2 $c2 $c3 $c3 $c4 $c4 $c1 $c5 $c6 $c6 [m"
+palette="[7m$c1 $c1 $c2 $c2 $c3 $c3 $c4 $c4 $c5 $c5 $c6 $c6 [m"
 
 # Gato simple
 printf '%s\n' "
