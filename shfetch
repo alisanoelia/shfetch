@@ -26,6 +26,7 @@ c7='[1;37m'; c8='[1;38m'
 palette="[7m$c1 $c1 $c2 $c2 $c3 $c3 $c4 $c4 $c5 $c5 $c6 $c6 [m"
 
 # Gato simple
+clear
 printf '%s\n' "
             ${c1}os ~ ${c0}${PRETTY_NAME}
   ${c0}(\ /)     ${c2}kr ~ ${c0}$kernel_version
