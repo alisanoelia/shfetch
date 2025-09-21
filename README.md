@@ -10,6 +10,22 @@
 
 ```sh
 git clone https://github.com/alisanoelia/shfetch
+```
+
+```sh
 cd shfetch
+```
+
+```sh
 sudo make install
 ```
+
+```sh
+shfetch
+```
+
+---
+
+### Thanks
+
+- [Dylan Araps](https://github.com/dylanaraps) for colors.
